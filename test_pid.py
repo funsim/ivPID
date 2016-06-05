@@ -26,7 +26,7 @@
 #dependencies    : matplotlib, numpy, scipy
 #==============================================================================
 
-import PID
+import pid
 import time
 import matplotlib.pyplot as plt
 import numpy as np
